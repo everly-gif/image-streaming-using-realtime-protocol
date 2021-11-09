@@ -40,7 +40,6 @@ found streams them as well.
 along with the total amount of data received till then. 
 - The server also outputs in the end an confirmation message, along with the total streams received 
 , the amount of lost packets, loss percentage and Success percentage. 
-10
 - The Client and Server Primarily run on UDP but since we have defined how the data should be 
 transferred this can also be considered as a small protocol that sits on top of UDP. 
 - By Using UDP for streaming rather than TCP/IP as it supports 3 Way handshake which could 
