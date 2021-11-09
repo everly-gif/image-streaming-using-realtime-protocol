@@ -50,7 +50,7 @@ go, Our project has a higher rate of success for image streaming and transferrin
 
 
 ## Results
-### The Client and Server GUI POPUPS
+### The Client and Server GUI Popups
 <p float="left" align="center">
  <img src="https://user-images.githubusercontent.com/77877486/140919322-f0a103f5-42f1-4c69-9d67-14386bb92c9b.jpg">  
  <img src="https://user-images.githubusercontent.com/77877486/140919550-afc471ae-fd3f-4e8f-84d0-407d60852e51.png">
