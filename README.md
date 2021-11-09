@@ -73,7 +73,7 @@ go, Our project has a higher rate of success for image streaming and transferrin
 
 ### Final Image Received By Server ( No data loss , No quality loss and No color loss):
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77877486/140920985-7d888f86-50bf-49c1-80bb-618708fc639b.png">
+<img src="https://user-images.githubusercontent.com/77877486/140924690-88581882-74bd-4c9d-9e4e-4d8e847ecd4a.png">
 </p>
 
 ### Result Analysis 
