@@ -3,7 +3,7 @@ This project aims at designing and assessing the functioning of an enhanced prot
 is excessively restrictive for image data. TCP is not suitable for real-time applications as the retransmissions can lead to high delay and cause delay 
 jitter, which significantly degrades the quality. On the other hand , UDP is a connectionless protocol and is not dedicated to end-to-end communications, nor does it check the readiness of the receiver (requiring fewer overheads and taking up less space). Hence, UDP is a much faster, simpler, and efficient protocol for streaming processes, but it does come with a concerning drawback, prone to packet losses. Packet losses can lead to corrupt images, which is something we want to avoid. Therefore this project is a step taken at tackling that very issue. Although it's built on UDP, it also uses a small programmatically written optimizer that can also be considered as a protocol running on top of UDP. Hence, enhancing and optimizing its features according to our objective. This project enables high quality image streaming without exhausting the buffer , therefore giving us a higher chance of receiving images without corrupting them.
 
-## Technolgies and Libraries
+## Technologies and Libraries
 Environment Software : Anaconda   
 IDE: Jupyter Notebook   
 Language : Python    
