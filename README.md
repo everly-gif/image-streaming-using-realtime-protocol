@@ -17,7 +17,7 @@ Libraries:
 - Imported **struct** for packing data into structures.
 
 ## The Implementation , Code Logic and Workflow
-- There’s Two GUI Interfaces for Client and Server Login.
+- There’s Two GUIs for Client and Server Login.
 - Once the Client and Server is successfully logged in , the server starts listening and the 
 client accepts the connection respectively. 
 - The client then asks for the user’s input for an Image through a file dialog 
