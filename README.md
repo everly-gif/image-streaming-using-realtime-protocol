@@ -9,10 +9,10 @@ IDE: Jupyter Notebook
 Language : Python    
 Libraries: 
 - Imported **socket** for socket programming eg: creation of sockets, etc.  
-- Imported  **PIL** library that is PYTHON IMAGE LIBRARY for opening and closing images via path 
+- Imported  **PIL**  that is PYTHON IMAGE LIBRARY for opening and closing images via path 
 - Imported **tkinter** for making the client login, popup and server login GUI.
 - Imported  **sys** for accessing system specific functions. 
-- Imported **cv2**, the OpenCV library which in our project is used for handling the images such as encoding, decoding it and the streaming it through a netwrok.  
+- Imported **cv2**, the OpenCV library which in our project is used for handling the images such as encoding, decoding it and streaming it through a netwrok.  
 - Imported  **numpy** for creating multi-dimensional arrays  
 - Imported **struct** for packing data into structures.
 
